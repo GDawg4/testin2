@@ -1,3 +1,4 @@
 class Main {
-    val name = "";
+    val name = ""
+    val test = ""
 }
